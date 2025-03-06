@@ -14,3 +14,7 @@ Version 1.2
 - Added new empty button lines in "index.html" (Lines 12-13)
 - Added new font-family line in "style.css" (Line 5)
 - Removed line in "config.js" (Line 4)
+
+Version 1.3
+
+- Minor changes
