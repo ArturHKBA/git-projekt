@@ -1,4 +1,4 @@
-console.log('Version 1.3);
-conole.log 'Hello World');
+console.log('Version 1.4');
+console.log ('Hello World');
 
-// VERSION 1.3
+// VERSION 1.4
