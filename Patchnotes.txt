@@ -7,3 +7,10 @@ Version 1.1
 - Changed version names
 - Added new line in "config.js" (Line 4)
 - Changed the background-color "in style.css" (Line 4)
+
+Version 1.2
+
+- Changed version names
+- Added new empty button lines in "index.html" (Lines 12-13)
+- Added new font-family line in "style.css" (Line 5)
+- Removed line in "config.js" (Line 4)
