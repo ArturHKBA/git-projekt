@@ -1,24 +1,31 @@
 Version 1.0
 
-- Release
+- Release! 
 
 Version 1.1
 
-- Changed version names
-- Added new line in "config.js" (Line 4)
-- Changed the background-color "in style.css" (Line 4)
+- Changed version names!
+- Added new line in "config.js" (Line 4)!
+- Changed the background-color "in style.css" (Line 4)!
 
 Version 1.2
 
-- Changed version names
-- Added new empty button lines in "index.html" (Lines 12-13)
-- Added new font-family line in "style.css" (Line 5)
-- Removed line in "config.js" (Line 4)
+- Changed version names!
+- Added new empty button lines in "index.html" (Lines 12-13)!
+- Added new font-family line in "style.css" (Line 5)!
+- Removed line in "config.js" (Line 4)!
 
 Version 1.3
 
-- Minor changes
+- Changed version names!
+- Minor changes!
 
 Version 1.4
 
-- Fixed all bugs and errors from "config.js", "index.html" & "style.css"
+- Changed version names!
+- Fixed all bugs and errors from "config.js", "index.html" & "style.css"!
+
+Version 1.5
+
+- Changed version names!
+- Added Git ignore file to keep confidential files hidden!
