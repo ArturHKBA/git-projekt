@@ -1,4 +1,6 @@
-console.log('Version 1');
+console.log('Version 1.1');
 console.log('Hello World');
 
-// VERSION 1
+console.log('Patchnotes');
+
+// VERSION 1.1
